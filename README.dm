@@ -8,7 +8,7 @@
 
 Каталог товаров с фильтрацией, поиском и модальным просмотром.
 
-- 🔗 [https://github.com/ColdCactus528/easy-catalog](https://github.com/ColdCactus528/easy-catalog)
+- 🔗 - 🔗 [GitHub (Easy Catalog)](https://github.com/ColdCactus528/easy-catalog)
 - 🐳 С поддержкой Docker (`Dockerfile` в корне)
 - 📁 HTML, CSS, JS без фреймворков
 
