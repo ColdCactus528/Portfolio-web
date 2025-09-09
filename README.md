@@ -21,7 +21,7 @@
 
 Фронтенд-приложение для управления персонажами, сессиями и заметками в формате Dungeons & Dragons.
 
-- 🔗 [GitHub (Frontend)](https://github.com/ColdCactus528/mythWeaver)
+- 🔗 [GitHub (MythWeaver)](https://github.com/ColdCactus528/mythWeaver)
 - 🌐 [Демо (Vercel)](https://myth-weaver-murex.vercel.app/)
 - 🐳 С поддержкой Docker
 - ⚛️ React + TypeScript
